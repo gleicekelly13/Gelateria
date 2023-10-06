@@ -1,5 +1,6 @@
 import React from "react";
 import Topo from "../../componentes/Topo";
+import Rodape from "../../componentes/Rodape";
 
 export default function Home () {
     return (
@@ -40,6 +41,8 @@ export default function Home () {
                     </div>
                 </section>
             </main>
+
+            <Rodape/>
         </div>
     );
 }
