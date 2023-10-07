@@ -1,9 +1,10 @@
 import { Link } from "react-router-dom";
+import './style.css';
 
 export default function Topo () {
     return (
         <header>
-        <div>
+        <div className="limita-secao itens-topo">
             <img src="./assets/logo.png" alt="logo-gelateria" />
             <nav>
                 <Link to="/Home">Home</Link>
