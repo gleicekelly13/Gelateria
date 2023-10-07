@@ -10,7 +10,7 @@ export default function Home () {
 
             <main>
                 <section className="secao-banner">
-                    <div>
+                    <div className="texto-banner">
                         <h1>SORVETE ARTESANAL</h1>
                     </div>
                 </section>

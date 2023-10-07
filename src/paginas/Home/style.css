@@ -1,0 +1,25 @@
+.secao-banner {
+    height: 90vh;
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('/public/assets/banner-home.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: rgb(249, 219, 121);
+}
+
+.texto-banner {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px 30px;
+}
+
+.texto-banner h1 {
+    font-size: 100px;
+    color: #fff;
+    text-shadow: 3px 5px 2px #474747;
+}
