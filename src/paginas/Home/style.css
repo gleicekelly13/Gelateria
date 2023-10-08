@@ -99,3 +99,13 @@ p {
     }
 
 }
+
+@media screen and (max-width: 436px) {
+    .texto-banner h1 {
+        font-size: 40px;
+    }
+
+    h2 {
+        line-height: 40px;
+    }
+}

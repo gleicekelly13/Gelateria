@@ -43,3 +43,16 @@ header a {
         padding: 0 30px;
     }
 }
+
+@media screen and (max-width: 436px) {
+    .itens-topo {
+        flex-direction: column;
+    }
+
+    header nav {
+        border-top: 1px solid #ccc;
+        width: 100%;
+        justify-content: space-around;
+        padding-top: 10px;
+    }
+}
