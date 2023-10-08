@@ -24,7 +24,7 @@ export default function Rodape () {
                 </div>
             </div>
 
-            <div className='limitar-secao rodape2'>
+            <div className='limita-secao rodape2'>
                 <p>Gelateria. Orgulhosamente desenvolvido por Gleice Kelly</p>
             </div>
         </footer>
