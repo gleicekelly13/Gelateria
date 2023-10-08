@@ -26,8 +26,6 @@
 
 .secao-itens {
     display: flex;
-    /*align-items: center;
-    justify-content: center; */
 }
 
 .secao-conteudo {
@@ -65,3 +63,39 @@ p {
     margin: 40px 0;
 }
 
+@media screen and (max-width: 1024px) {
+    p {
+        padding: 0 50px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .secao-banner {
+        width: 100%;
+    }
+
+    .texto-banner h1{
+        font-size: 60px;
+    }
+
+    .secao-itens {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .secao-conteudo {
+        width: 100%;
+        padding: 100px 10px;
+        text-align: center;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    .secao-eventos {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+}
