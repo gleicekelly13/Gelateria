@@ -15,7 +15,7 @@ export default function Sabores () {
                     </div>
                 </section>
 
-                <section>
+                <section className="limita-secao secao-sabores-sorvetes">
                     <h2>SABORES DE SORVETE</h2>
 
                     <div className="container-cards-sorvetes">

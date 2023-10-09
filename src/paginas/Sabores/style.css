@@ -32,3 +32,48 @@ main {
     color: #fff;
     text-shadow: 3px 5px 2px #474747; /* Sombreamento no texto */
 }
+
+.secao-sabores-sorvetes {
+    width: 100%;
+    padding: 100px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.secao-sabores-sorvetes h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.container-cards-sorvetes {  /* Agrupa os cards que contém os sabores */
+    padding: 20px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card-sorvetes {
+    width: 32%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    line-height: 26px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 15px 2px #d9dde1;
+    margin-bottom: 30px;
+}
+
+.card-sorvetes p {
+    width: 500px;
+    margin: 10px 0px;
+    font-size: 15px;
+    padding-right: 60%;
+}
+
+.card-sorvetes img {
+    width: 100%;
+    height: 250px;
+    object-fit: contain;
+}
