@@ -1,6 +1,7 @@
 header {
     width: 100%;
     padding: 10px 20px;
+    display: flex;
     position: fixed;
     top: 0;
     z-index: 1;
@@ -8,7 +9,6 @@ header {
 }
 
 .itens-topo {
-    width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -33,7 +33,7 @@ header a {
     color: #000;
 }
 
-@media screen and (max-width: 1024px) {
+/*@media screen and (max-width: 1024px) {
     .itens-topo {
         justify-content: space-around;
     }
@@ -49,9 +49,22 @@ header a {
     header nav {
         padding: 0 30px;
     }
-}
+} */
 
-@media screen and (max-width: 436px) {
+@media screen and (max-width: 662px){
+    .itens-topo{
+      flex-direction: column;
+    }
+  
+    header nav {
+      border-top: 1px solid grey;
+      width: 100%;
+      justify-content: space-around;
+      padding-top: 10px;
+    }
+  }
+
+/*@media screen and (max-width: 436px) {
     .itens-topo {
         flex-direction: column;
     }
@@ -62,4 +75,4 @@ header a {
         justify-content: space-between;
         padding-top: 10px;
     }
-}
+}*/

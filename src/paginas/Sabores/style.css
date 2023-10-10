@@ -47,7 +47,6 @@ main {
 }
 
 .container-cards-sorvetes {  /* Agrupa os cards que contém os sabores */
-    width: 100%;
     padding: 20px 20px;
     display: flex;
     flex-wrap: wrap;
@@ -98,7 +97,15 @@ main {
 
     .card-sorvetes {
         width: 100%;
-        padding: 20px 40px;
+        padding: 20px 20px;
         margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 436px) {
+
+
+    .texto-sabores h1 {
+        font-size: 45px;
     }
 }
