@@ -85,3 +85,20 @@ main {
         
     }
 }
+
+@media screen and (max-width: 768px) {
+    .texto-sabores h1 {
+        font-size: 60px;
+    }
+
+    .container-cards-sorvetes {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card-sorvetes {
+        width: 100%;
+        padding: 20px 40px;
+        margin-bottom: 20px;
+    }
+}
