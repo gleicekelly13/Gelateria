@@ -78,3 +78,10 @@ main {
     height: 250px;
     object-fit: contain;
 }
+
+@media screen and (max-width: 1024px) {
+    .card-sorvetes p {
+        width: 350px;
+        
+    }
+}
