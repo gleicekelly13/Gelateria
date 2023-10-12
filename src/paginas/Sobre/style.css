@@ -82,3 +82,9 @@ main {
     }
 }
 
+@media screen and (max-width: 436px) {
+    .texto-sobre h1 {
+        font-size: 40px;
+    }
+}
+
