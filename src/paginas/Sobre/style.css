@@ -67,3 +67,18 @@ main {
     height: auto;
     object-fit: cover;
 }
+
+@media screen and (max-width: 768px) {
+    .texto-sobre h1 {
+        font-size: 60px;
+    }
+    
+    .secao-images-sobre div {
+        flex-direction: column;
+    }
+
+    .secao-images-sobre img {
+        width: 100%;
+    }
+}
+
