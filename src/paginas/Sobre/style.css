@@ -29,3 +29,32 @@ main {
     font-size: 100px;
     text-shadow: 3px 5px 2px #474747;
 }
+
+.secao-textos-sobre div {
+    padding: 100px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.secao-textos-sobre h2 {
+    font-size: 35px;
+    line-height: 26px;
+    align-items: center;
+}
+
+.secao-textos-sobre span {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.secao-textos-sobre p {
+    text-align: center;
+    line-height: 26px;
+    margin-bottom: 15px;
+
+}
