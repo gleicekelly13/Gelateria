@@ -80,7 +80,7 @@ main {
 
 @media screen and (max-width: 1024px) {
     .card-sorvetes p {
-        width: 350px;
+        max-width: 350px;
         
     }
 }
