@@ -56,5 +56,14 @@ main {
     text-align: center;
     line-height: 26px;
     margin-bottom: 15px;
+}
 
+.secao-images-sobre div {
+    display: flex;
+}
+
+.secao-images-sobre img {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
 }
