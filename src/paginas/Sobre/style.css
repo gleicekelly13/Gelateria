@@ -1,0 +1,31 @@
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.secao-banner-sobre {
+    height: 90vh;
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-image: url('/public/assets/banner-sobre.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.texto-sobre {
+    padding: 20px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.texto-sobre h1 {
+    color: #fff;
+    font-size: 100px;
+    text-shadow: 3px 5px 2px #474747;
+}
