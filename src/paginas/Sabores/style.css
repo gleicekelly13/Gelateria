@@ -78,13 +78,6 @@ main {
     object-fit: contain;
 }
 
-@media screen and (max-width: 1024px) {
-    .card-sorvetes p {
-        max-width: 350px;
-        
-    }
-}
-
 @media screen and (max-width: 768px) {
     .texto-sabores h1 {
         font-size: 60px;
