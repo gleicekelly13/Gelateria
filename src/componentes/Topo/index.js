@@ -7,7 +7,7 @@ export default function Topo () {
         <div className="limita-secao itens-topo">
             <img src="./assets/logo.png" alt="logo-gelateria" />
             <nav>
-                <Link to="/Home">Home</Link>
+                <Link to="/">Home</Link>
                 <Link to="/Sabores">Sabores</Link>
                 <Link to="/Sobre">Sobre</Link>
             </nav>
