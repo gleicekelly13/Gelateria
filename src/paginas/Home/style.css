@@ -48,6 +48,7 @@ h2 {
     font-size: 35px;
     line-height: 26px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 span {
@@ -67,12 +68,16 @@ p {
     .texto-banner h1 {
         font-size: 90px;
     }
+
+    p {
+        padding: 0px 50px;
+    }
 } 
 
 @media screen and (max-width: 768px) {
-    .secao-banner {
+    /*.secao-banner {
         width: 100%;
-    }
+    } */
 
     .texto-banner h1{
         font-size: 60px;
@@ -100,7 +105,7 @@ p {
 
 }
 
-@media screen and (max-width: 436px) {
+@media screen and (max-width: 425px) {
     .texto-banner h1 {
         font-size: 40px;
     }
