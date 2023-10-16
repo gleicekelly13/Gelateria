@@ -5,7 +5,8 @@ footer {
 .container-cards {
     display: flex;
     color: #fff;
-    padding: 60px 20px;
+    /*padding: 60px 20px; */
+    padding: 100px 20px;
     justify-content: space-between;
 }
 
@@ -16,27 +17,27 @@ footer {
 
 .container-cards div {
     width: 20%;
-    display: flex;
+    /*display: flex;
     flex-direction: column;
     align-items: center; /* Alinha os elementos dentro da div */
     
 }
 
-.container-cards h3 {
+/*.container-cards h3 {
     margin-right: 100px;
-}
+}*/
 
 .container-cards p {
     font-size: 16px;
-    width: 25rem;
+    /*width: 25rem;
     margin: 0 10px; /* tirou o espaço entre os parágrafos */ 
 }
 
 .rodape2 {
     color: #fff;
     text-align: center;
-    padding: 5px 20px;
-    font-size: 16px;
+    padding: 20px 20px;
+
 } 
 
 
@@ -53,7 +54,8 @@ footer {
         margin-top: 20px;
     }
 
-    .container-cards h3 {
+    /*.container-cards h3 {
         margin-left: 100px;
-    }
+    }*/
 }
+
