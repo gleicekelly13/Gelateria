@@ -8,6 +8,11 @@
 </div>
 <br>
 
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Pousada-Secreta/assets/80974593/bd815d8c-4e0d-4ca6-bb2d-961cf45292d5.png" width = "500" />
+</div>
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
