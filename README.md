@@ -2,6 +2,11 @@
 <br>
 
 ## :desktop_computer: Desktop design
+<br>
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Pousada-Secreta/assets/80974593/91524293-3a48-41cd-82e0-5bf8a9614dfd.png" width = "500" />
+</div>
+<br>
 
 # Getting Started with Create React App
 
