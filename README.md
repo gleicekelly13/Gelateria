@@ -1,4 +1,4 @@
-<h1 align="center">Loja de óculos</h1>
+<h1 align="center">Gelateria</h1>
 <br>
 
 ## :desktop_computer: Desktop design
