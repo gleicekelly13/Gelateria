@@ -14,6 +14,7 @@
 <br>
 
 ## :iphone: Mobile design
+<br>
 
 # Getting Started with Create React App
 
