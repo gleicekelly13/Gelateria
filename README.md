@@ -23,6 +23,11 @@
 <div align = "center">
 <img src = "https://github.com/gleicekelly13/Gelateria/assets/80974593/8fe3972f-a353-4899-a1d6-f784b6fd9475.png" width= "300" />
 </div>
+<br> 
+
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Gelateria/assets/80974593/59e13e78-6098-46c6-b1cf-5497323d5e95.png" width = "300" />
+</div>
 <br>
 
 # Getting Started with Create React App
