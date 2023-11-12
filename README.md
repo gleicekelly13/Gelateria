@@ -20,6 +20,11 @@
 </div>
 <br>
 
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Gelateria/assets/80974593/8fe3972f-a353-4899-a1d6-f784b6fd9475.png" width= "300" />
+</div>
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
