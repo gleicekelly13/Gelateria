@@ -15,6 +15,10 @@
 
 ## :iphone: Mobile design
 <br>
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Gelateria/assets/80974593/29313662-8999-469b-b159-876d5dd0ee5b.png" width = "300" />
+</div>
+<br>
 
 # Getting Started with Create React App
 
