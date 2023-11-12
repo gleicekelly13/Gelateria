@@ -13,6 +13,11 @@
 </div>
 <br>
 
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Gelateria/assets/80974593/1aaf3156-6380-449d-a283-b96960bc6024.png" width = "500" />
+</div>
+<br>
+
 ## :iphone: Mobile design
 <br>
 <div align = "center">
