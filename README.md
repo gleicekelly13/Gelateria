@@ -41,6 +41,8 @@
 <br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
+<p> Você pode acessar o projeto final clicando aqui: https://projeto-sorveteria-sage.vercel.app/ </p>
+<br>
 
 # Getting Started with Create React App
 
