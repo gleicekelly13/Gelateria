@@ -44,6 +44,8 @@
 <p> Você pode acessar o projeto final clicando aqui: https://projeto-sorveteria-sage.vercel.app/ </p>
 <br>
 
+<h2 align="center"> :computer: Tecnologias utilizadas </h2>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
