@@ -45,6 +45,7 @@
 <br>
 
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
+<p>HTML5</p>
 
 # Getting Started with Create React App
 
