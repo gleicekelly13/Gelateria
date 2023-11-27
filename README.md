@@ -1,5 +1,6 @@
 <h1 align="center">Gelateria</h1>
 <h2 align="center">:page_facing_up: Descrição do projeto</h2>
+<p>Projeto proposto no curso da Devmedia, um site de sorveteria em React JS, que possui navegação entre as páginas.</p>
 <br>
 
 ## :desktop_computer: Desktop design
