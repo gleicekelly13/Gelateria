@@ -45,6 +45,9 @@
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
 <p>O site oferece interação ao usuário, visto que ao clicar nos links, o usuário consegue navegar entre as páginas, e pode retornar á página principal clicando no link "Home"</p>
 <p>Com relação ao código, os componentes podem ser reutizados em todas as páginas do site.</p>
+<br>
+
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://projeto-sorveteria-sage.vercel.app/ </p>
