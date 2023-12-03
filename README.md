@@ -48,6 +48,9 @@
 <br>
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+<ul>
+  <li>Criar e estruturar as pastas e arquivos do projeto;</li>
+</ul>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://projeto-sorveteria-sage.vercel.app/ </p>
