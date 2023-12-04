@@ -52,6 +52,7 @@
   <li>Criar e estruturar as pastas e arquivos do projeto;</li>
   <li>Criar componentes que representam as páginas do site;</li>
   <li>Utilizar a biblioteca React Router Dom para criar a navegação entre as páginas do site;</li>
+  <li>Criar os componentes que podem ser reutilizados em todas as páginas do site.</li>
 </ul>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
