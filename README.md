@@ -54,6 +54,7 @@
   <li>Utilizar a biblioteca React Router Dom para criar a navegação entre as páginas do site;</li>
   <li>Criar os componentes que podem ser reutilizados em todas as páginas do site.</li>
 </ul>
+<br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://projeto-sorveteria-sage.vercel.app/ </p>
@@ -69,6 +70,7 @@
 
 - GitHub - [GleiceKelly](https://github.com/gleicekelly13)
 - LinkedIn - [Gleice Kelly Oliveira](https://www.linkedin.com/in/gleicekelly13/)
+<br>
 
 # Getting Started with Create React App
 
